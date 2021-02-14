@@ -40,4 +40,5 @@ int main()
 	cout << endl << "The max and min of array elemets: " << max << "\t" << min<< endl;
 
 	return 0;
+//change for commit
 }
